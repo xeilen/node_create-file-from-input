@@ -1,4 +1,7 @@
 # Create a file from input
+
+**Read [the guideline](https://github.com/mate-academy/js_task-guideline/blob/master/README.md) before start**
+
 Write an app that will create a file with a given name and content.
 
 - When the app is launched, ask the user to enter the file name.
